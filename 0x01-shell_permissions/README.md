@@ -5,3 +5,4 @@ script 3 changes owner of the file
 script 4 creates an empty file
 script 5 execute permission to the owner
 script 6 execute permission to the owner and group
+script 7 adds execution permissions for owner
