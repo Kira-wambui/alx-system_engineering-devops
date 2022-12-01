@@ -10,3 +10,4 @@ script 8 set permission to file
 script 9 sets mode of the file
 script 10 sets mode of the file
 script 11 adds excecutive permissions
+script 12 creates a directory
