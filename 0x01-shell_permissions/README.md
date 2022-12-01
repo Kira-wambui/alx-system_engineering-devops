@@ -8,3 +8,4 @@ script 6 execute permission to the owner and group
 script 7 adds execution permissions for owner
 script 8 set permission to file
 script 9 sets mode of the file
+script 10 sets mode of the file
