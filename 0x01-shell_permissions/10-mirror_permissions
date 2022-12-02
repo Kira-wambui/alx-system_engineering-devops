@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --wxr-xr-- refrence=olleh hello
+chmod --wxr-xr-- reference=olleh hello
