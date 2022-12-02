@@ -13,3 +13,4 @@ script 11 adds excecutive permissions
 script 12 creates a directory
 script 13 changes the group owner
 script 14 changes the owner and group
+script 15 adds sympolic link permissions
