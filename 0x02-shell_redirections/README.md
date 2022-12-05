@@ -5,3 +5,4 @@ script 4 displays two files
 script 5 displays the last 10 lines
 script 6 displays first 10 lines 
 script 7 displays iacta in the third line
+script 8 creates a new file
